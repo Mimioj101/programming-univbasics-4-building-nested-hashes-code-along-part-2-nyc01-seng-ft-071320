@@ -65,7 +65,7 @@ additional_array.push({:name => "Prince Escalus"}, {:name => "Apothecary"})
 epic_tragedy[:montague][:additional_characters] = additional_array
 
 
-
+end
 
 
    # After your code, the following line will return the altered hash
